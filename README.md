@@ -2,14 +2,16 @@
 
 Hello World
 
-# beginning of the code
+beginning of the code
 ----
 verb = raw_input("Please input the verb : ")
 
 verb[len(verb)] = 'َ'
 print verb+verb[len(verb)]
+
 ----
-# end of the code
+end of the code
+
 
 I wanted to try ^ but I got this error : 
 
