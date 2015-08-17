@@ -8,6 +8,7 @@ beginning of the code
 verb = raw_input("Please input the verb : ")
 
 verb[len(verb)] = 'َ'
+
 print verb+verb[len(verb)]
 
 ----
